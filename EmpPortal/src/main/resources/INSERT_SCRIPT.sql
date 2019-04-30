@@ -1,0 +1,3 @@
+INSERT INTO user (username, password, userType,first_name,last_name,gender,dob) values ('admin', '$2a$04$EZzbSqieYfe/nFWfBWt2KeCdyq0UuDEM1ycFF8HzmlVR6sbsOnw7u', 'May', 'day','male', NOW());
+INSERT INTO EMPLOYEE (first_name,last_name,gender,dob, department) values ('Ravi', 'Kiran','male','1995-04-28','production');
+INSERT INTO EMPLOYEE (first_name,last_name,gender,dob, department) values ('Anu', 'Shankar','female','1997-01-20','quality');
